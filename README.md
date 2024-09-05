@@ -1,4 +1,4 @@
-Hi 👋 My name is Nacho
+Hi 👋 My name is Ignacio
 
 Software Developer and Designer. Long descritpddkk Long descritpddkk Long descritpddkk Long descritpddkk Long descritpddkk Long descritpddkk Long descritpddkk . Long descritpddkk Long descritpddkk Long descritpddkk. Long descritpddkk.* 🌍  I'm based in barcelona* 🖥️  See my portfolio at [My Portfolio](http://myrul.com)* 🧠  I'm learning HTMX
 
