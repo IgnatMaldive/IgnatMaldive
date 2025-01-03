@@ -35,3 +35,21 @@ Socials<p align="left"> <a href="https://www.github.com/ignatmaldive" target="_b
 ```load/stress testing```
 ```WordPress```
 
+
+| Category                  | Skills                                                              |
+| ------------------------- | ------------------------------------------------------------------- |
+| **Programming Languages** | Python, JavaScript/TypeScript, PHP, Fortran                         |
+| **Blockchain & Web3**     | Smart Contracts, Web3, Solana, NFT Marketplace, Wallets             |
+| **Frontend & Mobile**     | React, Vue, Angular, Nuxt.js, Next.js, D3.js, React Native, Flutter |
+| **Backend**               | Node.js, Nest.js, Express.js, Django, Flask, Ruby on Rails          |
+| **Databases**             | SQL (MySQL), NoSQL (MongoDB, CouchDB), Firebase                     |
+| **Cloud & DevOps**        | AWS, Azure, Google Cloud, Docker, Kubernetes                        |
+| **AR/VR & Graphics**      | Computer Vision, AR/VR Development, 3D Modeling                     |
+| **Project Management**    | Agile methodologies, Strategic project management                   |
+| **Development Tools**     | Git, Emacs, Linux, Figma                                            |
+
+---
+
+### [Project Portfolio](https://ignatmaldive.github.io/portfolio/)   [LinkedIn](https://www.linkedin.com/in/mondine/)    [GitHub](https://github.com/IgnatMaldive)
+
+
