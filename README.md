@@ -1,4 +1,4 @@
-Hi 👋 My name is Ignacio
+Hello! 👋 My name is Ignacio
 
 Software Developer and Designer with proven track record of blending entrepreneurial spirit with technical expertise to deliver innovative solutions that drive business growth and enhance user experiences. 🌍  I'm based in barcelona* 🖥️  See my portfolio at [My Portfolio](https://astro-donvito-blog.vercel.app/)* 🧠  I'm learning HTMX
 
