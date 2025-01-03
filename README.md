@@ -1,6 +1,6 @@
 Hello! 👋 My name is Ignacio
 
-I am an experienced Fullstack Developer with a focus on UX/UI & AI.
+I am a Software Engineer with a focus on UX/UI & AI.
 
 Proven track record of blending entrepreneurial spirit with technical expertise to deliver innovative solutions that drive business growth and enhance user experiences. 
 
